@@ -41,4 +41,4 @@ Alternatively simple download without Git and run `index.html`.
 ## Acknowledgments
 
 * Inspired by materials provided by the [Udacity Front-End Developer Nanodegree](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001)
-* All files except `jasmine/spec/feedreader.js` was provided by Udacity and has not been changed
+* All files except `jasmine/spec/feedreader.js` was provided by Udacity and have not been changed
